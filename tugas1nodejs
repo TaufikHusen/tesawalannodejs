@@ -1,0 +1,5 @@
+var Nama = 'Taufik Husen'
+function printName() {
+    console.log("Nama : " + Nama)
+}
+printName(Nama)
